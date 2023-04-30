@@ -45,4 +45,8 @@ It is possible to install all the necessary libraries for this book without the 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781784393878">https://packt.link/free-ebook/9781784393878 </a> </p>
 
+<<<<<<< HEAD
 Test Text
+=======
+Test text from hub
+>>>>>>> 305e14318d5b9436e1429fe610b698a47c8fb899
